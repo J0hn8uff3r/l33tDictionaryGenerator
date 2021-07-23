@@ -9,3 +9,7 @@ google > go0gl€, g[]*6lë, 6()9G!E
 nvidia > nV1d|a, ]\[Vid¦/\, NVI[>14
 
 It can be combined with some masks in hashcat adding characters before and after to attack more complex password hashes.
+
+Usage:
+
+python l33tDictionaryGenerator.py input.txt output.txt simple
