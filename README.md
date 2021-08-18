@@ -12,7 +12,7 @@ It can be combined with some masks in Hashcat adding characters before and after
 
 Usage:
 
-python l33tDictionaryGenerator.py input.txt output.txt simple
+python3 l33tDictionaryGenerator.py input.txt output.txt simple
 
 --------------------------------------------------------------------------------
 
@@ -28,4 +28,4 @@ Se puede combinar con algunas máscaras en Hashcat añadiéndole caracteres dela
 
 Uso:
 
-python l33tDictionaryGenerator.py input.txt output.txt simple
+python3 l33tDictionaryGenerator.py input.txt output.txt simple
