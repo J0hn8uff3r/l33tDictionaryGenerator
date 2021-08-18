@@ -1,3 +1,5 @@
+# l33tDictionaryGenerator
+
 El propósito principal de este pequeño script es generar un rápido diccionario l33t para realizar ataques de diccionario con herramientas como Hashcat.
 
 Una práctica habitual dentro de las empresas al elegir contraseñas fáciles de recordar es cambiar el nombre de la empresa a leet speak:
@@ -13,8 +15,6 @@ Uso:
 python l33tDictionaryGenerator.py input.txt output.txt simple
 
 --------------------------------------------------------------------------------
-
-# l33tDictionaryGenerator
 
 The main purpose of this tiny script is to generate a fast l33t dictionary to use it with tools like Hashcat, to perform dictionary attacks.
 
